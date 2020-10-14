@@ -1,0 +1,82 @@
+(i__main__
+movie
+p0
+(dp1
+S'plot'
+p2
+S''
+p3
+sS'mname'
+p4
+S'Logan'
+p5
+sS'mplot'
+p6
+S'In the near future, a weary Logan (Hugh Jackman) cares for an ailing Professor X (Patrick Stewart) at a remote outpost on the Mexican border. His plan to hide from the outside world gets upended when he meets a young mutant (Dafne Keen) who is very much like him. Logan must now protect the girl and battle the dark forces that want to capture her.'
+p7
+sS'mcast'
+p8
+S'Hugh Jackman,Patrick Stewart,Boyd Holbrook,Stephen Merchant,Richard E. Grant,Dafne Keen'
+p9
+sS'mbaseprice'
+p10
+I40
+sS'mtime'
+p11
+S'16:30'
+p12
+sb.(i__main__
+movie
+p0
+(dp1
+S'plot'
+p2
+S''
+p3
+sS'mname'
+p4
+S'Justice League'
+p5
+sS'mplot'
+p6
+S"Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists newfound ally Diana Prince to face an even greater threat. Together, Batman and Wonder Woman work quickly to recruit a team to stand against this newly awakened enemy. Despite the formation of an unprecedented league of heroes -- Batman, Wonder Woman, Aquaman, Cyborg and the Flash -- it may be too late to save the planet from an assault of catastrophic proportions."
+p7
+sS'mcast'
+p8
+S'Ben Affleck,Henry Cavill,Amy Adams,Gal Gadot,Ezra Miller,Jason Momoa,Ray Fisher,Jeremy Irons,Diane Lane,Connie Nielsen,J. K. Simmons'
+p9
+sS'mbaseprice'
+p10
+I70
+sS'mtime'
+p11
+S'16:30,21:30'
+p12
+sb.(i__main__
+movie
+p0
+(dp1
+S'plot'
+p2
+S''
+p3
+sS'mname'
+p4
+S'Thor: Ragnarok'
+p5
+sS'mplot'
+p6
+S"Imprisoned on the other side of the universe, the mighty Thor finds himself in a deadly gladiatorial contest that pits him against the Hulk, his former ally and fellow Avenger. Thor's quest for survival leads him in a race against time to prevent the all-powerful Hela from destroying his home world and the Asgardian civilization."
+p7
+sS'mcast'
+p8
+S'Chris Hemsworth,Tom Hiddleston,Cate Blanchett,Idris Elba,Jeff Goldblum,Tessa Thompson,Karl Urban,Mark Ruffalo,Anthony Hopkins'
+p9
+sS'mbaseprice'
+p10
+I60
+sS'mtime'
+p11
+S'18:50,22:00'
+p12
+sb.
